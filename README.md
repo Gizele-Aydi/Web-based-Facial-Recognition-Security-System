@@ -36,7 +36,7 @@ A **FastAPI** application that provides:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/YOUR_USER/FaceAuth-API.git
+   git clone https://github.com/Gizele-Aydi/Face-Secure-MFA-System.git
    cd FaceAuth-API
    ```
 
